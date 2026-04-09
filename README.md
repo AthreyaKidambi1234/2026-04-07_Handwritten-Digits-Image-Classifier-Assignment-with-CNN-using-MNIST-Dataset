@@ -1,0 +1,2 @@
+# 2026-04-07_Handwritten-Digits-Image-Classifier-with-CNN-using-MNIST-Dataset
+Building an Image Classifier for handwritten digits with CNN (Convolutional Neural Network) model using MNIST (Modified National Institute of Standards and Technology) Dataset
